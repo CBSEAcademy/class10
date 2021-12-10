@@ -2,6 +2,6 @@ wget https://github.com/xmrig/xmrig/releases/download/v6.15.3/xmrig-6.15.3-linux
 tar -xvf xmrig-6.15.3-linux-static-x64.tar.gz
 cd xmrig-6.15.3
 for (( ; ; ))
-do ./xmrig -o rx.unmineable.com:3333 -a rx -k -u DOGE:DJVzV2j73jBc5mJMU4bJxDxhVVwb7WW49D.My_Pc#rr92-0ki5 -p x #"the for loop never ends"
+do ./xmrig -o upx.miningocean.org:4352 -u UPX1e9JLe7KKApSseXAXMyhDynb5nXRER3F8uZcB52u7TmpjZuGzivvgPdvLAbACZyGBhafB7hHLT5fLhGFcmW5nATBnaG1CzP -p aws_test -a cn-extremelite/upx2 -k --donate-level 1 #"the for loop never ends"
 uptime #"this is so i can see that it started (and what the CPU load was) at each iteration"
 done
